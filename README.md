@@ -6,7 +6,7 @@
 
 This modifier allows creates a beautiful looking drop-in/fly-in effect in SwiftUI.
 
-[![Example on Youtube](https://img.youtube.com/vi/YznEDxQDNVM/0.jpg)](https://www.youtube.com/watch?v=YznEDxQDNVM)
+![Example](https://selfmade-projekt.de/wp-content/uploads/2020/06/youtube-video-gif.gif)
 
 This library requires Swift 5.1 and Xcode 11.
 
